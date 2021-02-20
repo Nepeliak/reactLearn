@@ -1,0 +1,18 @@
+.navbar{
+    grid-area: n;
+    background-color: blanchedalmond;
+}
+
+.navbar .item{
+    margin: 10px;
+    background-color: chartreuse;
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.active {
+    color: gold;
+}
+
+
+

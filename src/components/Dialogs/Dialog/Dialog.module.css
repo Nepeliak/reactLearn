@@ -1,0 +1,20 @@
+.dialog{
+    margin: 10px;
+    background-color: #009d71;
+}
+
+.messages{
+    width: 100%;
+}
+
+.sendMess{
+    width: 100%;
+    display: flex;
+    justify-content: stretch;
+    align-items: flex-end;
+
+}
+
+.sendMess .text{
+    width: 70%;
+}

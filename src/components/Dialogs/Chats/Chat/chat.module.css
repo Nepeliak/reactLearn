@@ -1,0 +1,17 @@
+.chat {
+    background-color: #3c787a;
+    margin: 5px;
+
+    border: 1px solid black;
+}
+
+.avatar{
+    width: 50px;
+    border-radius: 50px;
+}
+
+.name{
+    color: azure;
+    font-size: 2em;
+    padding: 5px;
+}
